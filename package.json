@@ -1,0 +1,11 @@
+{
+  "name": "fsd-cli",
+  "version": "1.0.0",
+  "description": "fsd, cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
